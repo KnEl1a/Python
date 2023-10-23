@@ -5,5 +5,3 @@ Dichos datos fueron limpiados y reorganizados, gracias a IDE basicas de texto y 
 >> principales fuentes para bajar los datos csv
 https://estadisticas.mercosur.int/
 https://comtradeplus.un.org/
-
-los datos csv los limpio y reorganizo con un IDE de programacion y con excel para tenerlos listos para estructurarlos gracias a libreria pandas, y representarlos gracias a la libreria matplotlib
