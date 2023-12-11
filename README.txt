@@ -1,3 +1,5 @@
+Los graficos correspondden a histogramas verticales y graficos de lineas 
+
 Estos graficos fueron realizados utilizando datos .csv descargados de diversas fuentes como la pagina oficial del mercosur 4 y comtrade
 
 Dichos datos fueron limpiados y reorganizados, gracias a IDE basicas de texto y excel. Para posterior ser representados gracias a python 3
