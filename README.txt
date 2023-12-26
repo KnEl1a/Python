@@ -2,6 +2,11 @@
 
 Este repositorio alberga visualizaciones y análisis de datos desarrollados para un proyecto de investigación en la Universidad Nacional del Oeste. El enfoque del proyecto fue analizar las relaciones comerciales entre el Mercosur y China. Se utilizaron datos de diversas fuentes, como la página oficial del Mercosur, COMTRADE, FAO y otras plataformas relevantes.
 
+>>Graficos: se encuentran guardados en formatos png o jpg, en los archivos .py puede ver el codigo python para su terminacion.
+>Tipos:
+-Histogramas de barras verticales
+-Grafico de lineas
+-Grafico Pie o torta
 
 >>Características Principales:
 Datos de Origen: Los conjuntos de datos provienen de fuentes confiables y reconocidas, como:
