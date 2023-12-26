@@ -15,12 +15,13 @@ https://oec.world/es/rankings/eci/hs6/hs96
 http://www.agrichina.org/UploadFolder/202107200445358049.pdf 
 
 
-Proceso : Se empleó el lenguaje de programación Python 3.0 por medio del IDE de visual studio code, actualmente por una cuestion practica me encuentro utilizando jupyter lab porque me brinda una rapida visualizacion y me permite una mejor adaptacion a la resolucion de problemas de mis codigos.
+Se empleó el lenguaje de programación Python 3.0 por medio del IDE de visual studio code, actualmente por una cuestion practica me encuentro utilizando jupyter lab porque me brinda una rapida visualizacion y me permite una mejor adaptacion a la resolucion de problemas de mis codigos.
 
-Limpieza y Filtrado: Los datos fueron sometidos a un proceso exhaustivo de limpieza y filtrado para garantizar su integridad y relevancia (con bilioteca pandas).
-Reorganización: Se aplicaron técnicas de reorganización de datos para estructurar la información de manera óptima (tambien gracias a la biblioteca pandas de python).
+Los datos fueron sometidos a un proceso exhaustivo de limpieza y filtrado para garantizar su integridad y relevancia.
+Se aplicaron técnicas de reorganización de datos para estructurar la información de manera óptima.
 
 Representación Visual:
-Herramientas Utilizadas: aproveche las bibliotecas Pandas para la manipulación de los datos y Matplotlib para la creación de visualizaciones profesionales.
+Herramientas Utilizadas: use las bibliotecas Pandas para la manipulación de los datos y Matplotlib para la creación de visualizaciones profesionales.
 
-Este repositorio es una contribución al entendimiento y análisis de las dinámicas comerciales entre el Mercosur y China, presentando datos visualmente atractivos y comprensibles.
+
+Este repositorio en mi humilde opinion es una solida contribución al entendimiento y análisis visual de las dinámicas comerciales entre el Mercosur y China.
