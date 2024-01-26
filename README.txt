@@ -1,14 +1,16 @@
-<<<<<<< HEAD
-Los graficos correspondden a histogramas verticales y graficos de lineas 
+                   Proyecto de Investigación - Relaciones Comerciales Mercosur-China
 
-Estos graficos fueron realizados utilizando datos .csv descargados de diversas fuentes como la pagina oficial del mercosur 4 y comtrade
-=======
-Estos graficos fueron hechos para un proyecto de investigacion de la universidad nacional del oeste, representando datos sobre las relaciones comerciales del mercosur con china, utilice datos .csv descargados de diversas fuentes como la pagina oficial del mercosur, comtrade y de la FAO.
->>>>>>> f0603bc7b8aed20f13cd1bce21cb6580530d46a9
+Este repositorio alberga visualizaciones y análisis de datos desarrollados para un proyecto de investigación en la Universidad Nacional del Oeste. El enfoque del proyecto fue analizar las relaciones comerciales entre el Mercosur y China. Se utilizaron datos de diversas fuentes, como la página oficial del Mercosur, COMTRADE, FAO y otras plataformas relevantes.
 
-Dichos datos fueron limpiados y reorganizados. Para posterior ser representados gracias al lenguaje de programacion python 3.0 , utilizando librerias de pandas para la estructuracion de los datos y matplotlib para su posterior representacion
+>>Graficos: se encuentran guardados en formatos png o jpg, en los archivos .py puede ver el codigo python para su terminacion.
+>Tipos:
+-Histogramas de barras verticales
+-Grafico de lineas
+-Grafico Pie o torta
 
->> principales fuentes para bajar los datos csv
+>>Características Principales:
+Datos de Origen: Los conjuntos de datos provienen de fuentes confiables y reconocidas, como:
+
 https://fpma.fao.org/giews/fpmat4/#/dashboard/tool/international 
 https://estadisticas.mercosur.int/
 https://comtradeplus.un.org/
@@ -16,3 +18,15 @@ https://www.trademap.org/Index.aspx
 https://atlas.cid.harvard.edu/rankings
 https://oec.world/es/rankings/eci/hs6/hs96
 http://www.agrichina.org/UploadFolder/202107200445358049.pdf 
+
+
+Se empleó el lenguaje de programación Python 3.10 por medio del IDE de visual studio code, actualmente por una cuestion practica me encuentro utilizando jupyter lab porque me brinda una rapida visualizacion y me permite una mejor adaptacion a la resolucion de problemas de mis codigos.
+
+Los datos fueron sometidos a un proceso exhaustivo de limpieza y filtrado para garantizar su integridad y relevancia.
+Se aplicaron técnicas de reorganización de datos para estructurar la información de manera óptima.
+
+Representación Visual:
+Herramientas Utilizadas: use las bibliotecas Pandas para la manipulación de los datos y Matplotlib para la creación de visualizaciones profesionales.
+
+
+Este repositorio en mi humilde opinion es una solida contribución al entendimiento y análisis visual de las dinámicas comerciales entre el Mercosur y China.
