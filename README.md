@@ -2,7 +2,7 @@
 
 [![Dise-o-sin-t-tulo-1.png](https://i.postimg.cc/bwCVRYSf/Dise-o-sin-t-tulo-1.png)](https://postimg.cc/k2SyJmyT)
 
-Este repositorio alberga visualizaciones y análisis de datos desarrollados para un proyecto de investigación en mi Universidad. El enfoque principal del proyecto fue analizar las relaciones comerciales entre el Mercosur y China, su planificacion y metodologia, tratando así de entender como estas relaciones comerciales logran afectan a nuestro pais en cuanto a lo economico. Se utilizaron datos de diversas fuentes, como la página oficial del Mercosur, COMTRADE, FAO y otras plataformas relevantes para la extraccion de los datos.
+Este repositorio alberga visualizaciones y análisis de datos desarrollados para un proyecto de investigación en mi Universidad. El enfoque principal del proyecto fue analizar las relaciones comerciales entre el Mercosur y China, su planificacion y metodologia, generalmente con un marco temporal que abarca desde le 2000 hasta el 2019,  así tratamos de entender como estas relaciones comerciales logran afectar a nuestro pais en cuanto a lo economico. Se utilizaron datos de diversas fuentes, como la página oficial del Mercosur, COMTRADE, FAO y otras plataformas relevantes para la extraccion de los datos.
 
 <h3>Por lo general los graficos se encuentran guardados en formatos png, y ademas en los archivos .py puede ver el codigo completo de python, todo el algoritmo en un solo archivo</h3> 
 <h5>Tipos de graficos :</h5>
