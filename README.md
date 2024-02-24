@@ -3,7 +3,7 @@
 Este repositorio alberga visualizaciones y análisis de datos desarrollados para un proyecto de investigación en mi Universidad. El enfoque principal del proyecto fue analizar las relaciones comerciales entre el Mercosur y China, su planificacion y metodologia, tratando así de entender como estas relaciones comerciales logran afectan a nuestro pais Argentina en cuanto a lo economico. Se utilizaron datos de diversas fuentes, como la página oficial del Mercosur, COMTRADE, FAO y otras plataformas relevantes para la extraccion de los datos.
 
 <h3>Por lo general los graficos se encuentran guardados en formatos png, en los archivos .py puede ver el codigo completo de python, todo el algoritmo en un solo archivo</h3> 
-<h6>Tipos de graficos :<\h6>
+<h5>Tipos de graficos :</h5>
 <li>Histogramas de barras verticales</li>
 <li>Grafico de lineas</li>
 <li>Graficos Pie</li>
@@ -11,7 +11,6 @@ Este repositorio alberga visualizaciones y análisis de datos desarrollados para
 <li>combinacion de graficos de puntos dispersos y graficos de lineas</li>
 <li>Tree Maps</li>
 
-Características Principales:
 ## Datos de Origen: Los conjuntos de datos provienen de fuentes confiables y reconocidas, como:
 
 https://fpma.fao.org/giews/fpmat4/#/dashboard/tool/international 
