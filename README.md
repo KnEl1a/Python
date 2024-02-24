@@ -1,4 +1,4 @@
-<h2>Proyecto de Investigación de la Universidad Nacional del Oeste-        Tema: Relaciones Comerciales Mercosur-China</h2>
+<h2>Proyecto de Investigación de la Universidad Nacional del Oeste sobre las Relaciones Comerciales entre Mercosur-China y su proyecto de seguridad alimentaria</h2>
 
 Este repositorio alberga visualizaciones y análisis de datos desarrollados para un proyecto de investigación en la Universidad Nacional del Oeste. El enfoque del proyecto fue analizar las relaciones comerciales entre el Mercosur y China. Se utilizaron datos de diversas fuentes, como la página oficial del Mercosur, COMTRADE, FAO y otras plataformas relevantes.
 
