@@ -1,4 +1,4 @@
-<h2>Proyecto de Investigación de la Universidad Nacional del Oeste sobre las Relaciones Comerciales entre Mercosur-China y su plan para la seguridad alimentaria</h2>
+<h2>Proyecto Oficial de Investigación  de la Universidad Nacional del Oeste sobre las Relaciones Comerciales entre Mercosur-China y su plan para la seguridad alimentaria</h2>
 
 [![Dise-o-sin-t-tulo-1.png](https://i.postimg.cc/bwCVRYSf/Dise-o-sin-t-tulo-1.png)](https://postimg.cc/k2SyJmyT)
 
