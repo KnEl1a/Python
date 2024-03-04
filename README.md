@@ -17,11 +17,17 @@ Este repositorio contiene visualizaciones y análisis de datos desarrollados par
 ## Datos de Origen: Los conjuntos de datos provienen de fuentes confiables y reconocidas, como:
 
 https://fpma.fao.org/giews/fpmat4/#/dashboard/tool/international 
+
 https://estadisticas.mercosur.int/
+
 https://comtradeplus.un.org/
+
 https://www.trademap.org/Index.aspx
+
 https://atlas.cid.harvard.edu/rankings
+
 https://oec.world/es/rankings/eci/hs6/hs96
+
 http://www.agrichina.org/UploadFolder/202107200445358049.pdf 
 
 
