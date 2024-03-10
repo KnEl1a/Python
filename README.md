@@ -36,7 +36,8 @@ http://www.agrichina.org/UploadFolder/202107200445358049.pdf
 Los datos fueron sometidos a un proceso exhaustivo de limpieza y filtrado para garantizar su integridad y relevancia.
 Se aplicaron técnicas de reorganización de datos para estructurar la información de manera óptima.
 
-Representación Visual:
+### Representación Visual:
+
 **Herramientas Utilizadas**: use las bibliotecas Pandas para la manipulación de los datos y Matplotlib para la creación de visualizaciones profesionales, ademas use otras biliotecas, utilice para algunos graficos en especifico seaborn y ploty.
 
 
