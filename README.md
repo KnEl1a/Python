@@ -5,7 +5,7 @@
 
 Este repositorio contiene visualizaciones y análisis de datos desarrollados para un proyecto de investigación en mi universidad. El objetivo principal del proyecto fue examinar teóricamente las relaciones comerciales entre el Mercosur y China, contrastando las afirmaciones con datos y representaciones. Se enfocó en la planificación y metodología, generalmente abarcando un período temporal desde el 2000 hasta el 2019, **con el propósito de comprender cómo estas relaciones comerciales impactan en nuestro país en términos económicos**. Se emplearon datos de diversas fuentes reconocidas, como la página oficial del Mercosur, COMTRADE, FAO y otras plataformas relevantes para la extracción de datos.
 
-<h3>Por lo general los graficos se encuentran guardados en formatos png, y ademas en los archivos .py puede ver el codigo completo de python, todo el algoritmo en un solo archivo de cada carpeta "Graf. x"</h3> 
+<h3>Por lo general los graficos se encuentran guardados en formatos '.png', y ademas en los archivos '.py' puede ver el codigo completo de python, todo el algoritmo para la generacion de cada visualizacion, en cada carpeta "Graf. x"</h3> 
 <h5>Tipos de graficos :</h5>
 <li>Histogramas de barras verticales</li>
 <li>Grafico de lineas</li>
