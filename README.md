@@ -5,7 +5,7 @@
 
 Este repositorio contiene visualizaciones y análisis de datos desarrollados para un proyecto de investigación en mi universidad. El objetivo principal del proyecto fue examinar teóricamente las relaciones comerciales entre el Mercosur y China, contrastando las afirmaciones con datos y representaciones. Se enfocó en la planificación y metodología, generalmente abarcando un período temporal desde el 2000 hasta el 2019, **con el propósito de comprender cómo estas relaciones comerciales impactan en nuestro país en términos económicos**. Se emplearon datos de diversas fuentes reconocidas, como la página oficial del Mercosur, COMTRADE, FAO y otras plataformas relevantes para la extracción de datos.
 
-<h3>Por lo general los graficos se encuentran guardados en formatos png, y ademas en los archivos .py puede ver el codigo completo de python, todo el algoritmo en un solo archivo</h3> 
+<h3>Por lo general los graficos se encuentran guardados en formatos '.png', y ademas en los archivos '.py' puede ver el codigo completo de python, todo el algoritmo para la generacion de cada visualizacion, en cada carpeta "Graf. x"</h3> 
 <h5>Tipos de graficos :</h5>
 <li>Histogramas de barras verticales</li>
 <li>Grafico de lineas</li>
@@ -31,7 +31,7 @@ https://oec.world/es/rankings/eci/hs6/hs96
 http://www.agrichina.org/UploadFolder/202107200445358049.pdf 
 
 
-**Se empleó el lenguaje de programación Python 3.10 por medio del IDE de visual studio code**, actualmente por una cuestion practica me encuentro utilizando jupyter lab porque me brinda una rapida visualizacion y me permite una mejor adaptacion a la resolucion de problemas de mis codigos.
+**Se empleó el lenguaje de programación Python 3.10 por medio del IDE de visual studio code y Jupyter lab**, actualmente por una cuestion practica me encuentro utilizando jupyter lab porque me brinda una rapida visualizacion y me permite una mejor adaptacion a la resolucion de problemas de mis codigos.
 
 Los datos fueron sometidos a un proceso exhaustivo de limpieza y filtrado para garantizar su integridad y relevancia.
 Se aplicaron técnicas de reorganización de datos para estructurar la información de manera óptima.
