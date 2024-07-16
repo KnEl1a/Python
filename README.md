@@ -45,11 +45,6 @@ Este repositorio en mi humilde opinion es una solida contribución al entendimie
 
 ## Vista rapida de visualizaciones hechas:
 
-#### Graf. 11
-
-![graf11](https://github.com/KnEl1a/Python-Data-Analytics-Proyecto-I.y-D.-U.N.O/blob/main/Graf.%2011/dona%20a%C3%B1o2019.png)
-
-
 #### Graf. 22
 
 ![graf22 curve.png](https://github.com/KnEl1a/Python-Data-Analytics-Proyecto-I.y-D.-U.N.O/blob/main/Graf.%2022/Linea_todos_2019.png)
