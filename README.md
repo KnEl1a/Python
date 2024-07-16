@@ -42,3 +42,30 @@ Se aplicaron técnicas de reorganización de datos para estructurar la informaci
 
 
 Este repositorio en mi humilde opinion es una solida contribución al entendimiento y análisis visual de las dinámicas comerciales entre el Mercosur y China.
+
+## Vista rapida de visualizaciones hechas:
+
+#### Graf. 11
+
+![graf11](https://github.com/KnEl1a/Python-Data-Analytics-Proyecto-I.y-D.-U.N.O/blob/main/Graf.%2011/dona%20a%C3%B1o2019.png)
+
+
+#### Graf. 22
+
+![graf22 curve.png](https://github.com/KnEl1a/Python-Data-Analytics-Proyecto-I.y-D.-U.N.O/blob/main/Graf.%2022/Linea_todos_2019.png)
+
+#### Graf. 25
+
+![sec_14_GRU graf25.png](https://github.com/KnEl1a/Python-Data-Analytics-Proyecto-I.y-D.-U.N.O/blob/main/Graf.%2025/Graf.%20Barras%20H%20(2).png)
+
+#### Graf. 28
+
+![graf28 curve.png](https://github.com/KnEl1a/Python-Data-Analytics-Proyecto-I.y-D.-U.N.O/blob/main/Graf.%2028/DONA2%20textNegro.png)
+
+#### Graf. 29
+
+![graf29 curve.png](https://github.com/KnEl1a/Python-Data-Analytics-Proyecto-I.y-D.-U.N.O/blob/main/Graf.%2029/B_H_sin%20cuadricula.png)
+
+#### Graf. 31
+
+![graf31 curve.png](https://github.com/KnEl1a/Python-Data-Analytics-Proyecto-I.y-D.-U.N.O/blob/main/Graf.%2031/graf.%20lineas%20BS.AS%202Axis.png)
