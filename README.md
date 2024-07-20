@@ -41,23 +41,22 @@ Data reorganization techniques were applied to optimally structure the informati
 In my humble opinion, this repository is a solid contribution to the understanding and visual analysis of trade dynamics between Mercosur and China.
 
 ## Quick view of created visualizations:
-
 #### Graf. 22
 
-![graf22 curve.png](https://github.com/KnEl1a/Python-Data-Analytics-Proyecto-I.y.D.-U.N.O/blob/main/Graf.%2022/Linea_todos_2019.png)
+![graf22 curve.png](https://github.com/KnEl1a/Python-Data-Analytics-Proyecto-I.y-D.-U.N.O/blob/main/Graf.%2022/Linea_todos_2019.png)
 
 #### Graf. 25
 
-![sec_14_GRU graf25.png](https://github.com/KnEl1a/Python-Data-Analytics-Proyecto-I.y.D.-U.N.O/blob/main/Graf.%2025/Graf.%20Barras%20H%20(2).png)
+![sec_14_GRU graf25.png](https://github.com/KnEl1a/Python-Data-Analytics-Proyecto-I.y-D.-U.N.O/blob/main/Graf.%2025/Graf.%20Barras%20H%20(2).png)
 
 #### Graf. 28
 
-![graf28 curve.png](https://github.com/KnEl1a/Python-Data-Analytics-Proyecto-I.y.D.-U.N.O/blob/main/Graf.%2028/DONA2%20textNegro.png)
+![graf28 curve.png](https://github.com/KnEl1a/Python-Data-Analytics-Proyecto-I.y-D.-U.N.O/blob/main/Graf.%2028/DONA2%20textNegro.png)
 
 #### Graf. 29
 
-![graf29 curve.png](https://github.com/KnEl1a/Python-Data-Analytics-Proyecto-I.y.D.-U.N.O/blob/main/Graf.%2029/B_H_sin%20cuadricula.png)
+![graf29 curve.png](https://github.com/KnEl1a/Python-Data-Analytics-Proyecto-I.y-D.-U.N.O/blob/main/Graf.%2029/B_H_sin%20cuadricula.png)
 
 #### Graf. 31
 
-![graf31 curve.png](https://github.com/KnEl1a/Python-Data-Analytics-Proyecto-I.y.D.-U.N.O/blob/main/Graf.%2031/graf.%20lineas%20BS.AS%202Axis.png)
+![graf31 curve.png](https://github.com/KnEl1a/Python-Data-Analytics-Proyecto-I.y-D.-U.N.O/blob/main/Graf.%2031/graf.%20lineas%20BS.AS%202Axis.png)
