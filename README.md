@@ -1,8 +1,8 @@
-<h2>Official Research Project of the National University of the West on Trade Relations between Mercosur-China and its Food Security Plan</h2>
+<h2>Official Research Project of the [Universidad nacional del oeste](https://www.uno.edu.ar/), on Trade Relations between Mercosur-China and its Food Security Plan</h2>
 
 [![omp-1.png](https://i.postimg.cc/wB0vhQkT/omp-1.png)](https://postimg.cc/Z9v4m3g1)
 
-This repository contains visualizations and data analyses developed for a research project at my university. The main objective of the project was to theoretically examine the trade relations between Mercosur and China, contrasting the claims with data and representations. It focused on planning and methodology, generally covering a time period from 2000 to 2019, **with the purpose of understanding how these trade relations impact our country economically**. Data from various recognized sources, such as the official Mercosur website, COMTRADE, FAO, and other relevant platforms, were used for data extraction.
+This repository contains visualizations and data analyses developed for a [research project at my university](https://www.uno.edu.ar/images/documentos/PROYECTOID/Disposicion%20SCyT%20n%2016-2023.pdf). The main objective of the project was to theoretically examine the trade relations between Mercosur and China, contrasting the claims with data and representations. It focused on planning and methodology, generally covering a time period from 2000 to 2019, **with the purpose of understanding how these trade relations impact our country economically**. Data from various recognized sources, such as the official Mercosur website, COMTRADE, FAO, and other relevant platforms, were used for data extraction.
 
 <h3>Generally, the charts are saved in '.png' formats, and in the '.py' files, you can see the complete Python code, the entire algorithm for generating each visualization, in each folder "Graf. x"</h3>
 <h5>Types of charts:</h5>
